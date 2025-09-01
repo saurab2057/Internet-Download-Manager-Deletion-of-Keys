@@ -1,4 +1,4 @@
-# Internet-Download-Manager-Deletion-of-Keys
+# 🔧 IDM Full Uninstall & Cleanup Instructions
 
 ---
 
